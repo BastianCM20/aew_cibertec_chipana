@@ -2,14 +2,26 @@
 h1 {
     color:rgb(7, 45, 128);
     margin: 3;
+    text-align: center;
 }
 
+h2 {
+    color:red;
+    text-align:center;
+}
 p {
     color:green
 }
 
 .mi-descripcion p {
-    color:brown;
+    color:rgb(176, 209, 29);
     text-align: center;
 }
 
+.contenedor-tarjeta {
+    background-color:rgb(74, 151, 182);
+}
+
+.datos-contacto{ 
+    text-align: center;
+}
