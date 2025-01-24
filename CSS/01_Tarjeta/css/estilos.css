@@ -4,7 +4,10 @@ h1 {
     margin: 3;
 }
 
-.mi-descripcion {
+p {
+    color:green
+}
+.mi-descripcion p {
     color:brown;
     text-align: center;
 }
