@@ -3,3 +3,8 @@ h1 {
     color:rgb(7, 45, 128);
     margin: 3;
 }
+
+.mi-descripcion {
+    color:brown;
+    text-align: center;
+}
