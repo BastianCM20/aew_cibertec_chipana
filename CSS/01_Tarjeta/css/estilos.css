@@ -20,6 +20,8 @@ p {
 
 .contenedor-tarjeta {
     background-color:rgb(74, 151, 182);
+    align-content: center;
+    align-items: center;
 }
 
 .datos-contacto{ 
